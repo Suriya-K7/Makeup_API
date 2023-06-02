@@ -1,18 +1,14 @@
-# [🔗 GUVI Webcode 01]()
+# [🔗 GUVI Webcode 01](https://webcode-01-makeup-api.netlify.app/)
 
 ### : Implement the Makeup API using async/await with fetch.
-
-> <i>Note: given api have server side issue, while running the code im getting "status code 500" error many time, after sometimes it is working.</i>
-
-> > <i>As i checked in internet it is due to overload of server or server under maintenanece issue. please consider while checking the webcode.</i> > > ![alt text](/images/server%20error.png) > > ![alt text](/images/server%20error%2001.png)
 
 #
 
 ## Created task deployed on below links :
 
-<a href="">Deployed in Netlify</a>
+<a href="https://webcode-01-makeup-api.netlify.app/">Deployed in Netlify</a>
 
-<a href="">Deployed in Github.io</a>
+<a href="https://suriya-k7.github.io/Guvi_Webcode_01_Makeup_API/">Deployed in Github.io</a>
 
 <i>for testing purpose, search below text for results</i>
 
@@ -38,3 +34,9 @@ after loaded time
 
 after search
 ![alt text](/images/after%20searching%20input.png)
+
+#
+
+> <i>Note: given api have server side issue, while running the code im getting "status code 500" error many time, after sometimes it is working.</i>
+
+> > <i>As i checked in internet it is due to overload of server or server under maintenanece issue. please consider while checking the webcode.</i> > > ![alt text](/images/server%20error.png) > > ![alt text](/images/server%20error%2001.png)
