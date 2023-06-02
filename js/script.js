@@ -66,7 +66,7 @@ async function updateData() {
   spinner.classList.add("active");
   try {
     let response = await fetch(
-      "http://makeup-api.herokuapp.com/api/v1/products.json" /*,
+      "https://makeup-api.herokuapp.com/api/v1/products.json" /*,
       {
         method: "GET",
         headers: {
@@ -153,7 +153,7 @@ async function updateDataBySearchInput(input) {
   spinner.classList.add("active");
   try {
     let response = await fetch(
-      "http://makeup-api.herokuapp.com/api/v1/products.json"
+      "https://makeup-api.herokuapp.com/api/v1/products.json"
     );
     let data = await response.json();
     display.innerHTML = "";
