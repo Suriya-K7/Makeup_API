@@ -1,4 +1,4 @@
-# [🔗 GUVI Webcode 01](https://webcode-01-makeup-api.netlify.app/)
+# [🔗 Makeup-Api-Webcode](https://makeup-api-webcode-sk7.netlify.app/)
 
 ### : Implement the Makeup API using async/await with fetch.
 
@@ -6,9 +6,9 @@
 
 ## Created task deployed on below links :
 
-<a href="https://webcode-01-makeup-api.netlify.app/">Deployed in Netlify</a>
+<a href="https://makeup-api-webcode-sk7.netlify.app/">Deployed in Netlify</a>
 
-<a href="https://suriya-k7.github.io/Guvi_Webcode_01_Makeup_API/">Deployed in Github.io</a>
+<a href="https://suriya-k7.github.io/Makeup_API/">Deployed in Github.io</a>
 
 <i>for testing purpose, search below text for results</i>
 
